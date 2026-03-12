@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+nltk
+sentence-transformers
+cohere
+faiss-cpu
+rank-bm25
+bert-score
+groq
+scikit-learn
+torch
+transformers
